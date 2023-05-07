@@ -1,0 +1,29 @@
+C:\Users\Aakil\Desktop\VS\3AS Project\FOTOFIRST\bin\Debug\FOTOFIRST.exe.config
+C:\Users\Aakil\Desktop\VS\3AS Project\FOTOFIRST\bin\Debug\FOTOFIRST.exe
+C:\Users\Aakil\Desktop\VS\3AS Project\FOTOFIRST\bin\Debug\FOTOFIRST.pdb
+C:\Users\Aakil\Desktop\VS\3AS Project\FOTOFIRST\obj\Debug\FOTOFIRST.Main.resources
+C:\Users\Aakil\Desktop\VS\3AS Project\FOTOFIRST\obj\Debug\FOTOFIRST.Properties.Resources.resources
+C:\Users\Aakil\Desktop\VS\3AS Project\FOTOFIRST\obj\Debug\FOTOFIRST.csproj.GenerateResource.cache
+C:\Users\Aakil\Desktop\VS\3AS Project\FOTOFIRST\obj\Debug\FOTOFIRST.csproj.CoreCompileInputs.cache
+C:\Users\Aakil\Desktop\VS\3AS Project\FOTOFIRST\obj\Debug\FOTOFIRST.exe
+C:\Users\Aakil\Desktop\VS\3AS Project\FOTOFIRST\obj\Debug\FOTOFIRST.pdb
+C:\Users\Aakil\Desktop\VS\3AS Project\FOTOFIRST\obj\Debug\FOTOFIRST.Login.resources
+C:\Users\Aakil\Desktop\VS\3AS Project\FOTOFIRST\obj\Debug\FOTOFIRST.Sales.resources
+C:\Users\Aakil\Desktop\VS\3AS Project\FOTOFIRST\obj\Debug\FOTOFIRST.Management.resources
+C:\Users\Aakil\Desktop\VS\3AS Project\FOTOFIRST\obj\Debug\FOTOFIRST.Products.resources
+C:\Users\Aakil\Desktop\VS\3AS Project\FOTOFIRST\obj\Debug\FOTOFIRST.csproj.AssemblyReference.cache
+C:\Users\Lokey\Desktop\FINAL YEAR\ISTN3AS\FOTOFIRST - Copy (5)\obj\Debug\FOTOFIRST.exe
+C:\Users\Lokey\Desktop\FINAL YEAR\ISTN3AS\FOTOFIRST - Copy (5)\obj\Debug\FOTOFIRST.ForgotPassword.resources
+C:\Users\Lokey\Desktop\FINAL YEAR\ISTN3AS\FOTOFIRST - Copy (5)\obj\Debug\FOTOFIRST.Login.resources
+C:\Users\Lokey\Desktop\FINAL YEAR\ISTN3AS\FOTOFIRST - Copy (5)\obj\Debug\FOTOFIRST.Main.resources
+C:\Users\Lokey\Desktop\FINAL YEAR\ISTN3AS\FOTOFIRST - Copy (5)\obj\Debug\FOTOFIRST.Management.resources
+C:\Users\Lokey\Desktop\FINAL YEAR\ISTN3AS\FOTOFIRST - Copy (5)\obj\Debug\FOTOFIRST.Products.resources
+C:\Users\Lokey\Desktop\FINAL YEAR\ISTN3AS\FOTOFIRST - Copy (5)\obj\Debug\FOTOFIRST.Properties.Resources.resources
+C:\Users\Lokey\Desktop\FINAL YEAR\ISTN3AS\FOTOFIRST - Copy (5)\obj\Debug\FOTOFIRST.Sales.resources
+C:\Users\Lokey\Desktop\FINAL YEAR\ISTN3AS\FOTOFIRST - Copy (5)\obj\Debug\FOTOFIRST.csproj.GenerateResource.cache
+C:\Users\Lokey\Desktop\FINAL YEAR\ISTN3AS\FOTOFIRST - Copy (5)\obj\Debug\FOTOFIRST.csproj.CoreCompileInputs.cache
+C:\Users\Lokey\Desktop\FINAL YEAR\ISTN3AS\FOTOFIRST - Copy (5)\bin\Debug\FOTOFIRST.exe.config
+C:\Users\Lokey\Desktop\FINAL YEAR\ISTN3AS\FOTOFIRST - Copy (5)\bin\Debug\FOTOFIRST.exe
+C:\Users\Lokey\Desktop\FINAL YEAR\ISTN3AS\FOTOFIRST - Copy (5)\bin\Debug\FOTOFIRST.pdb
+C:\Users\Lokey\Desktop\FINAL YEAR\ISTN3AS\FOTOFIRST - Copy (5)\obj\Debug\FOTOFIRST.pdb
+C:\Users\Lokey\Desktop\FINAL YEAR\ISTN3AS\FOTOFIRST - Copy (5)\obj\Debug\FOTOFIRST.csproj.AssemblyReference.cache
